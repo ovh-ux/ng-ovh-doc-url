@@ -13,7 +13,7 @@
   "main": "./dist/ovh-angular-doc-url.min.js",
   "repository": "ovh-ux/ovh-angular-doc-url",
   "dependencies": {
-    "jasmine-core": "^2.5.2",
+    "jasmine-core": "^3.0.0",
     "phantomjs": "^2.1.7"
   },
   "devDependencies": {
